@@ -12,6 +12,7 @@ db.sqlite3
 
 # C extensions
 *.so
+*.exe
 
 # Distribution / packaging
 .Python
