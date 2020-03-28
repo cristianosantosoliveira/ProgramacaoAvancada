@@ -1,1 +1,1 @@
-Aulas da disciplina Programação Avançada do Programa de Mestrado em Computação Aplicada da Univerisidade Tecnológica Federal do Paraná - UTFPR. 
+Aulas da disciplina Programação Avançada(C++) do Programa de Mestrado em Computação Aplicada da Univerisidade Tecnológica Federal do Paraná - UTFPR. 
